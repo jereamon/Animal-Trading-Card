@@ -1,0 +1,38 @@
+/* add your CSS here */
+.main-div {
+    width: 330px;
+    border: solid 1px;
+    border-color: rgb(200, 200, 200);
+    box-shadow: 5px 5px 13px 0px rgba(0,0,0,0.34);
+}
+
+.facts-div {
+    border: solid 1px;
+    border-color: rgb(220, 220, 220);
+    margin: 2% auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 280px
+}
+
+.descrip {
+    font-style: italic;
+}
+
+h2 {
+    margin-left: 10%
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li span {
+    font-weight: bold;
+}
